@@ -1,0 +1,5 @@
+URL:- http://10.63.252.193:8080/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+User Name:- rhealth
+Dev Key:- 113438e371edcf3abf9921ffbd79872f
+Reliance Health Insurance Limited
+RHIL
